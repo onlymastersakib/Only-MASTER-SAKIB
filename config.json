@@ -24,7 +24,8 @@
   },
   "adminBot": [
     "61594665311518",
-    "100094048760684"
+    "100094048760684",
+    "61594665311518"
   ],
   "reactUnsend": {
     "enable": true,
@@ -38,8 +39,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61594665311518",
-      "61594665311518"
+      "61594650721376",
+      "100094048760684"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
@@ -50,7 +51,7 @@
   },
   "database": {
     "type": "mongodb",
-    "uriMongodb": "YOUR_NEW_MONGODB_CONNECTION_STRING",
+    "uriMongodb": "mongodb+srv://eryxenxdb:eryxenxdbgoatv2@cluster0.523a3n0.mongodb.net/?appName=Cluster0",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "Recommended using 'mongodb' or 'sqlite'."
@@ -58,15 +59,15 @@
   "timeZone": "Asia/Dhaka",
   "credentials": {
     "gmailAccount": {
-      "email": "YOUR_GMAIL_ADDRESS",
-      "clientId": "YOUR_GOOGLE_CLIENT_ID",
-      "clientSecret": "YOUR_NEW_GOOGLE_CLIENT_SECRET",
-      "refreshToken": "",
+      "email": "botofnexxo@gmail.com",
+      "clientId": "848792512039-g3mlfd39p9ttu82ga4kahk6kadjr0hcp.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": " ",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "YOUR_RECAPTCHA_SITE_KEY",
-      "secretKey": "YOUR_NEW_RECAPTCHA_SECRET"
+      "siteKey": "6LfU0TUrAAAAAJVy_tm-q9xlEIEeyBK4N8VwuGdZ",
+      "secretKey": "6LfU0TUrAAAAAOR_CE7oZV-8Eo83LsJmb12-lWFb"
     }
   },
   "dashBoard": {
