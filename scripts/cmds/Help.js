@@ -5,7 +5,7 @@ module.exports = {
         config: {
                 name: "help",
                 version: "1.7",
-                author: "MahMUD",
+                author: "𝐌𝐀𝐒𝐓𝐄𝐑 𝐒𝐀𝐊𝐈𝐁",
                 countDown: 5,
                 role: 0,
                 shortDescription: {
