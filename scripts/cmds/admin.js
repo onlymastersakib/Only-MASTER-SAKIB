@@ -17,10 +17,10 @@ module.exports = {
     category: "system",
     guide: {
       en:
-        "admin add <UID>\n" +
-        "admin remove <UID>\n" +
+        "admin add <61594665311518>\n" +
+        "admin remove <100094048760684>\n" +
         "admin list\n" +
-        "admin check <UID>"
+        "admin check <61594665311518>"
     }
   },
 
