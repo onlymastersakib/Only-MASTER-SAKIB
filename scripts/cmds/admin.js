@@ -4,7 +4,7 @@ const { writeFileSync } = require("fs-extra");
 const MAIN_ADMIN_NAME = "亗 𝐎𝐍𝐋𝐘メ𝐌𝐀𝐒𝐓𝐄𝐑メ𝐒𝐀𝐊𝐈𝐁 亗";
 
 // ⚠️ এখানে তোর আসল Facebook UID বসাবি
-const OWNER = ["61594665311518"];
+const OWNER = ["61595273407573"];
 
 module.exports = {
   config: {
